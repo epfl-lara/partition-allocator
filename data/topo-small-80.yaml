@@ -1,0 +1,14 @@
+"zh5-0606":
+  "encl-storeblob018.zh5":
+    "76": [80, 80, 80, 80]
+    "77": [80, 80, 80, 80]
+    "78": [80, 80, 80, 80]
+  "encl-storeblob019.zh5":
+    "84": [80, 80, 80, 80]
+    "85": [80, 80, 80, 80]
+"zh5-abcd":
+  "encl-storeblobxyz.zh5":
+    "248": [80, 80, 80, 80]
+# No search strategy = 19m 44s
+# Input order, IntDomainMin, partitionAlloc = 9 m 27s
+# inputOrderLBSearch, partitionAlloc = 9 m 27s
